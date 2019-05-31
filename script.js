@@ -57,8 +57,7 @@ let id
     })
 
     let code = `html {
-  height: 100%;
-  background: radial-gradient(ellipse at center, #fcd7de 0%,#f9c0ca 100%);
+  background: #f9ece8;
 }
 
 .body {
