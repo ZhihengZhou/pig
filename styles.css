@@ -64,3 +64,11 @@ body {
 .actions > button:focus {
     outline: none;
 }
+
+#t1, #t2, #t3{
+    opacity: 0;
+}
+
+
+/* Copy code from here */
+
