@@ -245,12 +245,8 @@ let id
 
   .text_left{
     position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 300px;
-    margin-left: -500px;
-    margin-top: 100px;
-
+    left: 170px;
+    top: 100px;
   }
 
   #t1 {
@@ -267,11 +263,8 @@ let id
 
   .text_right{
     position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 400px;
-    margin-left: 200px;
-    margin-top: 150px;
+    left: 780px;
+    top: 150px;
 
   }
 
